@@ -17,12 +17,12 @@
 
 <resources>
     <color name="colorPrimary">#04561A</color>
-    <color name="colorPrimaryDark">#04561A</color>
-    <color name="colorAccent">#04561A</color>
+    <color name="colorPrimaryDark">#002c00</color>
+    <color name="colorAccent">#560c0c</color>
 
     <color name="colorTextPrimary">#04561A</color>
     <color name="colorTextSecondary">#6000</color>
-    <color name="colorTextBlack">#000000</color>
+    <color name="colorText">#000000</color>
 
     <color name="photo_placeholder">#ccc</color>
 
